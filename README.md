@@ -12,4 +12,6 @@
 - Email: taras.zadziarnouski@gmail.com
 - LinkedIn: [taras-zadziarnouski](https://www.linkedin.com/in/taras-zadziarnouski/)
 
+---
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nottaras)](https://leetcode.com/nottaras/)
