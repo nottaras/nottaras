@@ -1,7 +1,7 @@
 # Hi, I'm Taras
 
 ## About Me
-- Software Engineer
+- Senior Software Engineer
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/2bfb5a73-50de-4331-92ac-ebcc7ab983a9/public_url)
 - Focused on backend systems with Java & Kotlin
 
