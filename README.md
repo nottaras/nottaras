@@ -1,16 +1,17 @@
 # Hi, I'm Taras
 
-## About Me
-- Senior Software Engineer
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/2bfb5a73-50de-4331-92ac-ebcc7ab983a9/public_url)
-- Focused on backend systems with Java & Kotlin
+Senior Software Engineer focused on backend systems with Java & Kotlin.
+[AWS Certified Developer – Associate](https://www.credly.com/badges/2bfb5a73-50de-4331-92ac-ebcc7ab983a9/public_url)
 
 ## Projects
-- [Leetcode Solutions](https://github.com/nottaras/leetcode) – solving coding problems in Java
+
+- [leetcode](https://github.com/nottaras/leetcode) – solving coding problems in Java
+- [zmk-config](https://github.com/nottaras/zmk-config) – ZMK firmware config for custom keyboard
+- [dotfiles](https://github.com/nottaras/dotfiles) – personal dotfiles & dev environment setup
 
 ## Contact
-- Email: taras.zadziarnouski@gmail.com
-- LinkedIn: [taras-zadziarnouski](https://www.linkedin.com/in/taras-zadziarnouski/)
+
+[taras.zadziarnouski@gmail.com](mailto:taras.zadziarnouski@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taras-zadziarnouski/)
 
 ---
 
