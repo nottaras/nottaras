@@ -5,9 +5,10 @@ Software Engineer focused on backend systems with Java & Kotlin.
 
 ## Projects
 
-- [leetcode](https://github.com/nottaras/leetcode)
-- [zmk-config](https://github.com/nottaras/zmk-config)
-- [dotfiles](https://github.com/nottaras/dotfiles)
+- [Leetcode](https://github.com/nottaras/leetcode)
+- [ZMK Config](https://github.com/nottaras/zmk-config)
+- [Dotfiles](https://github.com/nottaras/dotfiles)
+- [Oura Briefing](https://github.com/nottaras/oura-briefing)
 
 ## Contact
 
